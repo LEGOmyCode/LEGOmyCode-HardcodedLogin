@@ -2,7 +2,6 @@
 public class Lab {
     /**
      * This challenge represents a hardcoded login example:
-     *
      *     Let's say we have two users, named "admin" and "user".
      *     "admin" has a password of "qwerty".
      *     "user" has a password of "password".
